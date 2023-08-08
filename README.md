@@ -12,4 +12,7 @@ Well, Hello World is written and what's next? Next we will draw in the log:
 ► Log this out by logging empty cells as spaces and
 painted over as a different character.
 
+**Result:**
+
+
 ![image](https://github.com/vdcast/Module_1_Lesson_1_hw_2/assets/108469609/556eca0a-6e99-4b47-9c0e-ec5937d1f7d5)
