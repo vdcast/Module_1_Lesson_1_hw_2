@@ -3,7 +3,7 @@
 
 Android Studio. Java Basics. Types data, methods.
 
-**Technical task:**
+**Task:**
 
 Well, Hello World is written and what's next? Next we will draw in the log:
 ► Take a leaf in a box and select a 10x10 square.
