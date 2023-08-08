@@ -1,6 +1,5 @@
 # Module_1_Lesson_1_hw_2
 Lesson's topic:
-
 Android Studio. Java Basics. Types data, methods.
 
 Technical task:
